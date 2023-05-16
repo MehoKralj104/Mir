@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mir, komunikacija, stereotipi i predrasude</title>
+  <style>
+    /* Stilizacija */
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.5;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      background-color: #f2f2f2;
+      padding: 10px;
+    }
+
+    nav ul li {
+      margin: 0 10px;
+    }
+
+    nav ul li a {
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 20px;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Mir, komunikacija, stereotipi i predrasude</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#mir">Mir</a></li>
+      <li><a href="#komunikacija">Komunikacija</a></li>
+      <li><a href="#stereotipi">Stereotipi</a></li>
+      <li><a href="#predrasude">Predrasude</a></li>
+    </ul>
+  </nav>
+
+  <section id="mir">
+    <h2>Mir</h2>
+    <p>Mir je stanje harmonije, stabilnosti i odsutnosti nasilja. Predstavlja temelj za razvoj i napredak društva. Mir se postiže kroz dijalog, razumijevanje, poštovanje i rješavanje sukoba na miran način. Kultura mira promovira inkluzivnost, pravdu, jednakost i suradnju među ljudima.</p>
+    <p>Komunikacija, prevladavanje stereotipa i predrasuda igraju važnu ulogu u izgradnji mira. Kroz otvorenu i poštenu komunikaciju možemo razumjeti različite perspektive, izbjegavati sukobe i izgraditi mostove među ljudima. Prevazilaženje stereotipa i predrasuda pomaže u stvaranju inkluzivnog društva koje cijeni različitosti i promovira mir.</p>
+  </section>
+
+  <section id="komunikacija">
+        <h2>Komunikacija</h2>
+    <p>O komunikaciji možemo razmišljati kao o procesu prenošenja informacija između ljudi. Kvalitetna komunikacija je ključna za razumijevanje i uspješnu interakciju između pojedinaca i grupa.</p>
+  </section>
+
+  <section id="stereotipi">
+    <h2>Stereotipi</h2>
+    <p>Stereotipi su generalizirane pretpostavke i uvjerenja o određenoj grupi ljudi. Mogu biti temeljeni na spolu, etničkoj pripadnosti, religiji ili drugim karakteristikama. Stereotipi mogu ograničiti naše razumijevanje i izazvati predrasude prema drugim ljudima.</p>
+    <p>Da bismo prevladali stereotipe, važno je upoznati druge ljude i razumjeti da svaka osoba je jedinstvena i da generalizacije nisu uvijek točne. Potrebno je izbjegavati donošenje zaključaka na temelju stereotipa i pružiti svakoj osobi priliku da pokaže svoje prave sposobnosti i karakteristike.</p>
+  </section>
+
+  <section id="predrasude">
+    <h2>Predrasude</h2>
+    <p>Predrasude su prethodno formirana mišljenja ili stavovi o drugima koji se temelje na stereotipima. Predrasude mogu dovesti do diskriminacije, nepoštivanja i ograničavanja prava i mogućnosti drugih ljudi. Važno je biti svjestan vlastitih predrasuda i raditi na njihovom prevladavanju kako bismo izgradili inkluzivnije društvo.</p>
+    <p>Jedan od načina za prevladavanje predrasuda je otvorena komunikacija i interakcija s ljudima koji su drugačiji od nas. Upoznavanje i razumijevanje njihovih iskustava, kultura i perspektiva može nam pomoći da prevaziđemo predrasude i izgradimo međusobno poštovanje i inkluzivno okruženje.</p>
+  </section>
+
+  <footer>
+    <p>© 2023 Ime Stranice. Sva prava zadržana.</p>
+  </footer>
+
+</body>
+</html>
+
